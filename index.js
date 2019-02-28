@@ -30,7 +30,7 @@ DAMAGE.
 /* Author: Chas Emerick <cemerick@snowtide.com> */
 __whitespace = {" ":true, "\t":true, "\n":true, "\f":true, "\r":true};
 
-var difflib = module.exports = {
+var difflib = {
   defaultJunkFunction: function (c) {
     return __whitespace.hasOwnProperty(c);
   },
