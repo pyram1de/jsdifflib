@@ -1,11 +1,20 @@
 {
-  "name": "jsdifflib",
+  "name": "pyram1de-jsdifflib",
   "version": "1.1.0",
   "description": "A javascript library for diffing text and generating corresponding HTML views",
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ForbesLindesay/jsdifflib.git"
+    "url": "git+https://github.com/pyram1de/jsdifflib.git"
   },
-  "license": "BSD"
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/pyram1de/jsdifflib/issues"
+  },
+  "homepage": "https://github.com/pyram1de/jsdifflib#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
 }
