@@ -1,6 +1,6 @@
 {
   "name": "pyram1de-jsdifflib",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A javascript library for diffing text and generating corresponding HTML views",
   "keywords": [],
   "repository": {
